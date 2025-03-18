@@ -9,7 +9,7 @@
   });
 </script>
 
-<h1>Events</h1>
+<h1>Events </h1>
 <!-- Display event as cards-->
 {#each events.member as event}
   <div>
